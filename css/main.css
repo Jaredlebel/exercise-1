@@ -64,4 +64,5 @@ img {
 
 .table > p {
     font-size: 1em;
+    clear: both;
 }
